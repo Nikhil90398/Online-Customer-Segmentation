@@ -1,10 +1,7 @@
 # Online-Retail-Customer-Segmentation
-ML Project (Unsupervised learning)
 
-<img src="https://aeroleads.com/blog/wp-content/uploads/2017/07/Aeroleads-customer-Segmentation.png" width="800" height="500"/>
 
-This repository consists of Customer-Segmentation of online retail,This is done with the help of Unsupervised Machine Learning Algorithms.
-
+<img src="https://aeroleads.com/blog/wp-content/uploads/2017/07/Aeroleads-customer-Segmentation.png" width="1200" height="500"/>
 
 
 ## Indroduction:-
