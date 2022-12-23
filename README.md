@@ -61,9 +61,9 @@ Most of the customers have purchased items in November, October, December, and t
 
 Most of the customers purchase in the afternoon time.
 
-Using a recency, frequency and monetary(RFM) analysis, the customers have been segmented into various clusters and got a silhoutte score of 0.39 for two clusters
+Using a recency, frequency and monetary(RFM) analysis, the customers have been segmented into various clusters.
 
-By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 2.
+By applying different clustering algorithm to our dataset, we get the optimal number of cluster is equal to 3.
 
 The business can focus on these different clusters and provide customer with services of each sector in a different way, which would not only benefit the customers but also the business at large.
 
