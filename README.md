@@ -1,7 +1,10 @@
 # Online-Retail-Customer-Segmentation
 
 
-<img src="https://aeroleads.com/blog/wp-content/uploads/2017/07/Aeroleads-customer-Segmentation.png" width="1200" height="500"/>
+<p align="center">
+  <img 
+    src = "https://cdn.dribbble.com/users/506824/screenshots/1670206/media/71471d476effd234809de88eabd6229b.gif" width="1200" height="500"/>
+</p>
 
 
 ## Indroduction:-
